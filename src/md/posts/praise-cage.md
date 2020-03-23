@@ -1,6 +1,6 @@
 ---
 pageTitle: The First Post
-tag: post
+tags: post
 ---
 
 ## this is a new post 
