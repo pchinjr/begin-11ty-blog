@@ -3,8 +3,8 @@ play-j7v
 
 @static
 folder _site
-@http
 
+@http
 
 @tables
 data
