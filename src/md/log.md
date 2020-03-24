@@ -1,8 +1,11 @@
 ---
 layout: layout.liquid
+pageTitle: Here are logs
 ---
+
 {% for post in collections.post %}
+    <ul>
     <h2><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></h2>
-    {{ post.templateContent }}
     <em>{{ post.date | date: "%Y-%m-%d" }}</em>
+    </ul>
 {% endfor %}
