@@ -4,6 +4,13 @@ pageTitle: Caged Logs
 ---
 
 {% for post in collections.posts %}
+    hello
+    <h2><a href="{{ post.url }}">{{ post.data.pageTitle }}</a></h2>
+    <em>{{ post.date | date: "%Y-%m-%d" }}</em>
+{% endfor %}
+
+
+<!-- {% for post in collections.posts %}
   <section class="mw7 center">
     <article class="pv4 bt bb b--black-10 ph3 ph0-l">
       <div class="flex flex-column flex-row-ns">
@@ -19,4 +26,4 @@ pageTitle: Caged Logs
       </div>
     </article>
   </section>
-{% endfor %}
+{% endfor %} -->
