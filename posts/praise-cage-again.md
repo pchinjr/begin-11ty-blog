@@ -1,6 +1,5 @@
 ---
 pageTitle: The Second Post
-tags: posts
 imgURL: "https://www.placecage.com/g/400/300"
 ---
 

@@ -1,6 +1,5 @@
 ---
 pageTitle: The Third Post
-tags: posts
 imgURL: "https://www.placecage.com/g/300/200"
 ---
 
