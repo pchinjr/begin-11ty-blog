@@ -1,5 +1,6 @@
 ---
 pageTitle: The First Post
+layout: layout.liquid
 tags: posts
 imgURL: "https://www.placecage.com/g/400/400"
 ---
