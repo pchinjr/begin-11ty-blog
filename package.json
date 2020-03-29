@@ -10,6 +10,6 @@
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "@architect/sandbox": "^1.8.1"
+    "@architect/sandbox": "^1.8.3"
   }
 }
