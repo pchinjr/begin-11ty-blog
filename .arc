@@ -3,7 +3,6 @@ play-j7v
 
 @static
 folder _site
-spa false
 
 @http
 
